@@ -1,4 +1,4 @@
 # Courses
-- INFO-6109  
-- INFO-6205  
-- INFO-6301  
+- INFO-6109: Application Technologies  
+- INFO-6205: Database managemeent 
+- INFO-6107: Interface Technologies  
